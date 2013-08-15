@@ -214,7 +214,11 @@ var $selectedCategories = array();
                                     'description',
                                     'date_entered',
                                     'created_by',
-                                    'related_module',
+                                    /* BEGIN - SECURITY GROUPS */
+									//related_module now included but keep this here just in case
+                                    'related_module', 
+                                    'related_id', 
+                                    /* END - SECURITY GROUPS */
                                     'link_url',
                                     'link_type'));
 

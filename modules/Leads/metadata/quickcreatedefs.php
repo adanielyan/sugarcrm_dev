@@ -92,80 +92,69 @@ array (
         ),
         1 => 
         array (
-          0 => 
-          array (
-            'name' => 'last_name',
-            'displayParams' => 
-            array (
-              'required' => true,
-            ),
-          ),
-          1 => 
-          array (
-            'name' => 'phone_work',
-          ),
+          'name' => 'phone_work',
         ),
-        2 => 
+      ),
+      2 => 
+      array (
+        0 => 
         array (
-          0 => 
-          array (
-            'name' => 'title',
-          ),
-          1 => 
-          array (
-            'name' => 'phone_mobile',
-          ),
+          'name' => 'title',
         ),
-        3 => 
+        1 => 
         array (
-          0 => 
-          array (
-            'name' => 'department',
-          ),
-          1 => 
-          array (
-            'name' => 'phone_fax',
-          ),
+          'name' => 'phone_mobile',
         ),
-        4 => 
+      ),
+      3 => 
+      array (
+        0 => 
         array (
-          0 => 
-          array (
-            'name' => 'account_name',
-          ),
-          1 => 
-          array (
-            'name' => 'do_not_call',
-          ),
+          'name' => 'department',
         ),
-        5 => 
+        1 => 
         array (
-          0 => 
-          array (
-            'name' => 'email1',
-          ),
+          'name' => 'phone_fax',
         ),
-        6 => 
+      ),
+      4 => 
+      array (
+        0 => 
         array (
-          0 => 
-          array (
-            'name' => 'lead_source',
-          ),
-          1 => 
-          array (
-            'name' => 'refered_by',
-          ),
+          'name' => 'account_name',
         ),
-        7 => 
+        1 => 
         array (
-          0 => 
-          array (
-            'name' => 'assigned_user_name',
-          ),
-          1 => 
-          array (
-            'name' => 'team_name',
-          ),
+          'name' => 'do_not_call',
+        ),
+      ),
+      5 => 
+      array (
+        0 => 
+        array (
+          'name' => 'email1',
+        ),
+      ),
+      6 => 
+      array (
+        0 => 
+        array (
+          'name' => 'lead_source',
+        ),
+        1 => 
+        array (
+          'name' => 'refered_by',
+        ),
+      ),
+      7 => 
+      array (
+        0 => 
+        array (
+          'name' => 'assigned_user_name',
+        ),
+        1 => 
+        array (
+          'name' => 'team_name',
         ),
       ),
     ),

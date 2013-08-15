@@ -1,0 +1,6 @@
+Name,Website,Email Address,Office Phone,Billing Street,Billing City,Billing State,Billing Postal Code,Billing Country,Description,Type,Status
+Provider 1,www.infoqa.edu,hr.info@example.edu,(034) 306-4183,111 Silicon Valley Road,Los Angeles,MD,63553,USA,Description of Provider 1,Customer,Applicant
+Provider 2,www.phonevegan.de,hr.the.kid@example.net,(812) 918-9809,777 West Filmore Ln,Salt Lake City,MD,88848,USA,Description of Provider 2,Customer,Applicant
+Provider 3,www.salesdev.us,qa.hr@example.com,(481) 269-5472,1715 Scott Dr,Los Angeles,MD,90805,USA,Description of Provider 3,Customer,Applicant
+Provider 4,www.vegandev.co.jp,im.sugar@example.us,(232) 852-2815,123 Anywhere Street,San Jose,MD,40367,USA,Description of Provider 4,Customer,Provider
+Provider 5,www.hrinfo.edu,kid93@example.edu,(779) 239-9621,321 University Ave.,Alabama,MD,76115,USA,Description of Provider 5,Customer,Provider

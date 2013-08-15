@@ -189,7 +189,18 @@ $xtpl->assign("ID", $focus->id);
 if(isset($focus->name)) $xtpl->assign("NAME", $focus->name); else $xtpl->assign("NAME", "");
 
 //Bug45632
+/* BEGIN - SECURITY GROUPS */
+/**
 if(isset($focus->assigned_user_id)) $xtpl->assign("ASSIGNED_USER_ID", $focus->assigned_user_id); else $xtpl->assign("ASSIGNED_USER_ID", "");
+*/
+if(isset($focus->assigned_user_id)) $xtpl->assign("ASSIGNED_USER_ID", $focus->assigned_user_id);
+else if(empty($focus->id) && empty($focus->assigned_user_id)) {
+	global $current_user;
+	$xtpl->assign("ASSIGNED_USER_ID", $current_user->id);
+    $xtpl->assign("ASSIGNED_USER_NAME", get_assigned_user_name($current_user->id));
+}
+else $xtpl->assign("ASSIGNED_USER_ID", "");
+/* END - SECURITY GROUPS */
 //Bug45632
 
 if(isset($focus->description)) $xtpl->assign("DESCRIPTION", $focus->description); else $xtpl->assign("DESCRIPTION", "");

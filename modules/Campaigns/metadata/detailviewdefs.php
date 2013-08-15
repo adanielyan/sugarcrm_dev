@@ -210,7 +210,6 @@ $viewdefs['Campaigns']['DetailView'] = array(
             'customCode' => '{$fields.date_entered.value} {$APP.LBL_BY} {$fields.created_by_name.value}',
           ),
         ),	  
-  ),
-)
-
+     ),
+  )
 );

@@ -161,29 +161,29 @@ array (
                     {/literal}
                 </script>            
             ',
-          ),          
-          array (
-            'name' => 'reminder_time',
-            'customCode' => '{include file="modules/Meetings/tpls/reminders.tpl"}',
-            'label' => 'LBL_REMINDER',
-          ),
-       ),
-
-         array (
-         	 array (
-            'name' => 'assigned_user_name',
-            'label' => 'LBL_ASSIGNED_TO_NAME',
-          ),
-
         ),
-
+        1 => 
         array (
-
-          array (
-            'name' => 'description',
-            'comment' => 'Full text of the note',
-            'label' => 'LBL_DESCRIPTION',
-          ),
+          'name' => 'reminder_time',
+          'customCode' => '{include file="modules/Meetings/tpls/reminders.tpl"}',
+          'label' => 'LBL_REMINDER',
+        ),
+      ),
+      4 => 
+      array (
+        0 => 
+        array (
+          'name' => 'assigned_user_name',
+          'label' => 'LBL_ASSIGNED_TO_NAME',
+        ),
+      ),
+      5 => 
+      array (
+        0 => 
+        array (
+          'name' => 'description',
+          'comment' => 'Full text of the note',
+          'label' => 'LBL_DESCRIPTION',
         ),
       ),
     ),
