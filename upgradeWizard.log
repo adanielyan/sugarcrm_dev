@@ -1,0 +1,1275 @@
+Tue, 11 Jun 2013 11:20:59 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 11:20:59 -0400 [UpgradeWizard] - -----------------------------------------------------------------------------
+Tue, 11 Jun 2013 11:20:59 -0400 [UpgradeWizard] - Upgrade started. At start.php
+Tue, 11 Jun 2013 11:20:59 -0400 [UpgradeWizard] - at unlinkUWTempFiles()
+Tue, 11 Jun 2013 11:21:06 -0400 [UpgradeWizard] - finished!
+Tue, 11 Jun 2013 11:21:06 -0400 [UpgradeWizard] - resetting $_SESSION
+Tue, 11 Jun 2013 13:21:23 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:21:23 -0400 [UpgradeWizard] - -----------------------------------------------------------------------------
+Tue, 11 Jun 2013 13:21:23 -0400 [UpgradeWizard] - Upgrade started. At start.php
+Tue, 11 Jun 2013 13:21:23 -0400 [UpgradeWizard] - at unlinkUWTempFiles()
+Tue, 11 Jun 2013 13:21:23 -0400 [UpgradeWizard] - finished!
+Tue, 11 Jun 2013 13:21:23 -0400 [UpgradeWizard] - resetting $_SESSION
+Tue, 11 Jun 2013 13:21:30 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:21:30 -0400 [UpgradeWizard] - [At systemCheck.php]
+Tue, 11 Jun 2013 13:21:30 -0400 [UpgradeWizard] - Starting file permission check...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Finished file permission check.
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Starting database permissions check...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking CREATE TABLE permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking INSERT INTO permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking UPDATE TABLE permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking SELECT permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking DELETE FROM permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking ALTER TABLE ADD COLUMN permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking ALTER TABLE CHANGE COLUMN permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking ALTER TABLE DROP COLUMN permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Checking DROP TABLE permissions...
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - No permissions errors found!
+Tue, 11 Jun 2013 13:21:49 -0400 [UpgradeWizard] - Finished database permissions check.
+Tue, 11 Jun 2013 13:22:18 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:22:18 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:22:18 -0400 [UpgradeWizard] - finding new files for upgrade
+Tue, 11 Jun 2013 13:22:18 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Tue, 11 Jun 2013 13:22:18 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Tue, 11 Jun 2013 13:28:22 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:28:22 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:28:22 -0400 [UpgradeWizard] - running upload
+Tue, 11 Jun 2013 13:28:23 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-6.5.13.zip
+Tue, 11 Jun 2013 13:28:23 -0400 [UpgradeWizard] - extracting manifest.
+Tue, 11 Jun 2013 13:34:12 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:34:12 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:34:12 -0400 [UpgradeWizard] - finding new files for upgrade
+Tue, 11 Jun 2013 13:34:13 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Tue, 11 Jun 2013 13:34:13 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - running upload
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-6.5.13.zip
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - extracting manifest.
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - ERROR: no manifest.php file found!
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - at unlinkUWTempFiles()
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - finished!
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - finding new files for upgrade
+Tue, 11 Jun 2013 13:35:12 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Tue, 11 Jun 2013 13:35:13 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Tue, 11 Jun 2013 13:38:30 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:38:30 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:38:30 -0400 [UpgradeWizard] - running upload
+Tue, 11 Jun 2013 13:38:30 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-6.5.13.zip
+Tue, 11 Jun 2013 13:38:30 -0400 [UpgradeWizard] - extracting manifest.
+Tue, 11 Jun 2013 13:40:32 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:40:32 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:40:32 -0400 [UpgradeWizard] - running upload
+Tue, 11 Jun 2013 13:40:32 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-6.5.13.zip
+Tue, 11 Jun 2013 13:40:32 -0400 [UpgradeWizard] - extracting manifest.
+Tue, 11 Jun 2013 13:47:58 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:47:58 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:47:58 -0400 [UpgradeWizard] - finding new files for upgrade
+Tue, 11 Jun 2013 13:47:58 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Tue, 11 Jun 2013 13:47:58 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Tue, 11 Jun 2013 13:49:03 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:49:03 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:49:03 -0400 [UpgradeWizard] - running upload
+Tue, 11 Jun 2013 13:49:04 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-6.5.13.zip
+Tue, 11 Jun 2013 13:49:04 -0400 [UpgradeWizard] - extracting manifest.
+Tue, 11 Jun 2013 13:51:10 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:51:10 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:51:10 -0400 [UpgradeWizard] - finding new files for upgrade
+Tue, 11 Jun 2013 13:51:10 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Tue, 11 Jun 2013 13:51:10 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Tue, 11 Jun 2013 13:51:41 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:51:41 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:51:41 -0400 [UpgradeWizard] - finding new files for upgrade
+Tue, 11 Jun 2013 13:51:41 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Tue, 11 Jun 2013 13:51:41 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Tue, 11 Jun 2013 13:52:53 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:52:53 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:52:53 -0400 [UpgradeWizard] - running upload
+Tue, 11 Jun 2013 13:52:53 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-6.5.13.zip
+Tue, 11 Jun 2013 13:52:53 -0400 [UpgradeWizard] - extracting manifest.
+Tue, 11 Jun 2013 13:53:46 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:53:46 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:53:46 -0400 [UpgradeWizard] - running upload
+Tue, 11 Jun 2013 13:53:46 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-6.5.13.zip
+Tue, 11 Jun 2013 13:53:46 -0400 [UpgradeWizard] - extracting manifest.
+Tue, 11 Jun 2013 13:56:07 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:56:07 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:56:07 -0400 [UpgradeWizard] - finding new files for upgrade
+Tue, 11 Jun 2013 13:56:07 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Tue, 11 Jun 2013 13:56:07 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - At upload.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - running upload
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-Upgrade-6.5.x-to-6.5.13.zip
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - extracting manifest.
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - validating manifest.php file
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - copying manifest.php to final destination.
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - zip file moved to [SugarCE-Upgrade-6.5.x-to-6.5.13.zip]
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/extensions.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManagerDisplay.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManager.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleScanner.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:58:44 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/extensions.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManagerDisplay.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManager.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleScanner.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/getImage.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/SugarTheme.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/extensions.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManagerDisplay.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManager.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleScanner.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/extensions.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManagerDisplay.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/PackageManager/PackageManager.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleScanner.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/getImage.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/SugarTheme.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/SugarCache/SugarCache.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/Localization/Localization.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/upload_file.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/upload_file.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/utils/autoloader.php
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - finding new files for upgrade
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Tue, 11 Jun 2013 13:58:45 -0400 [UpgradeWizard] - *** UW using [ upload://upgrades/patch/SugarCE-Upgrade-6.5.x-to-6.5.13.zip ] as source for patch files.
+Tue, 11 Jun 2013 13:59:00 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:59:00 -0400 [UpgradeWizard] - at preflight.php
+Tue, 11 Jun 2013 13:59:00 -0400 [UpgradeWizard] - unzipping files in upgrade archive...
+Tue, 11 Jun 2013 13:59:00 -0400 [UpgradeWizard] - verifying md5 checksums for files...
+Tue, 11 Jun 2013 13:59:01 -0400 [UpgradeWizard] - found a file with a differing md5: [./modules/Emails/EmailUI.php]
+Tue, 11 Jun 2013 13:59:01 -0400 [UpgradeWizard] - found a file with a differing md5: [./modules/EmailTemplates/EmailTemplateFormBase.php]
+Tue, 11 Jun 2013 13:59:01 -0400 [UpgradeWizard] - found a file with a differing md5: [./modules/Campaigns/views/view.detail.php]
+Tue, 11 Jun 2013 13:59:01 -0400 [UpgradeWizard] - found a file with a differing md5: [./modules/Campaigns/utils.php]
+Tue, 11 Jun 2013 13:59:01 -0400 [UpgradeWizard] - found a file with a differing md5: [./modules/ACLActions/ACLAction.php]
+Tue, 11 Jun 2013 13:59:01 -0400 [UpgradeWizard] - found a file with a differing md5: [./modules/ACL/ACLController.php]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - found a file with a differing md5: [./jssource/src_files/include/SubPanel/SubPanelTiles.js]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - found a file with a differing md5: [./include/export_utils.php]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - found a file with a differing md5: [./include/SubPanel/SubPanelTiles.js]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - found a file with a differing md5: [./include/Smarty/plugins/function.sugar_button.php]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - found a file with a differing md5: [./include/ListView/ListView.php]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - found a file with a differing md5: [./include/EditView/EditView2.php]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - found a file with a differing md5: [./data/SugarBean.php]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - found a file with a differing md5: [./data/Relationships/M2MRelationship.php]
+Tue, 11 Jun 2013 13:59:02 -0400 [UpgradeWizard] - md5 verification done.
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/database/MysqlManager.php
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/database/MssqlManager.php
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/database/DBManager.php
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/SugarCache/SugarCache.php
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - updating UpgradeWizard code: include/utils/autoloader.php
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - file preflight check passed successfully.
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - starting schema preflight check...
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - looking for schema script at: /var/www/1-sugarcrm/cache/upgrades/temp/rivz4H/scripts/650_to_650_mysql.sql
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - no schema script found - all schema preflight skipped
+Tue, 11 Jun 2013 13:59:03 -0400 [UpgradeWizard] - schema preflight done.
+Tue, 11 Jun 2013 13:59:14 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:59:14 -0400 [UpgradeWizard] - [At commit.php]
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Setting error_reporting() to E_ERROR while running upgrade
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - backing up files to be overwritten...
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/wells.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/variables.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/utilities.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/type.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/tooltip.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/thumbnails.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/tables.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/sugarmobile.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/sugar.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/sprites.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/scaffolding.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/responsive.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/reset.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/progress-bars.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/popovers.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/pagination.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/pager.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/navs.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/navbar.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/modals.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/mixins.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/layouts.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/labels.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/hero-unit.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/grid.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/forms.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/font-awesome.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/dropdowns.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/component-animations.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/code.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/close.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/chosen.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/carousel.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/buttons.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/button-groups.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/breadcrumbs.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/bootstrap.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/bootstrap-mobile.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/alerts.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/less/accordion.less
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/images/IBMSmartCloud_image_inline.png
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/font/fontawesome-webfont.woff
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/font/fontawesome-webfont.ttf
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/font/fontawesome-webfont.svgz
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/font/fontawesome-webfont.svg
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/font/fontawesome-webfont.eot
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/default/css/bootstrap.css
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/Sugar5/tpls/header.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/Sugar5/tpls/_welcome.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/Sugar5/tpls/_head.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/themes/Sugar5/css/style.css
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/sugar_version.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/soap/SoapTypes.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/soap/SoapSugarUsers.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/soap/SoapPortalHelper.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/soap/SoapHelperFunctions.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/soap/SoapError.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/soap/SoapDeprecated.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/v4_1/SugarWebServiceUtilv4_1.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/v4_1/SugarWebServiceImplv4_1.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/v4/SugarWebServiceUtilv4.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/v4/SugarWebServiceImplv4.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/v3_1/SugarWebServiceUtilv3_1.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/v3_1/SugarWebServiceImplv3_1.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/v3/SugarWebServiceUtilv3.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/v3/SugarWebServiceImplv3.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/example/example.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/core/webservice.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/core/SugarWebServiceImpl.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/core/SoapHelperWebService.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/service/core/REST/SugarRestJSON.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/robots.txt
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/vCals/vCal.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/vCals/HTTP_WebDAV_Server_vCal.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/iCals/iCal.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/iCals/HTTP_WebDAV_Server_iCal.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/views/view.wizard.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/views/view.edit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/tpls/EditViewHeader.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/tpls/EditViewFooter.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/tpls/DetailViewFooter.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/reassignUserRecords.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/login.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/login.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/authentication/SugarAuthenticate/SugarAuthenticate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/authentication/SAMLAuthenticate/settings.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/authentication/SAMLAuthenticate/lib/xmlseclibs/xmlseclibs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/authentication/SAMLAuthenticate/index.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/authentication/SAMLAuthenticate/SAMLAuthenticateUser.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/authentication/SAMLAuthenticate/SAMLAuthenticate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/authentication/LDAPAuthenticate/LDAPAuthenticateUser.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/authentication/AuthenticationController.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/UserViewHelper.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/UserEditView.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/User.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/UpdateTourStatus.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/Save.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/Logout.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/Login.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/LoggedOut.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/LoggedOut.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/GeneratePassword.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/Changenewpassword.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Users/Authenticate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UserPreferences/UserPreference.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/uw_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/uw_ajax.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/systemCheck.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/silentUpgrade_step1.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/silentUpgrade_dce_step2.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/silentUpgrade_dce_step1.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/silentUpgrade.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/preflight.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/index.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/end.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/commit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/UpgradeWizard/UpgradeRemoval.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Tasks/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Tasks/metadata/additionalDetails.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Tasks/metadata/SearchFields.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Tasks/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Tasks/Task.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/SugarFeed/tpls/AdminSettings.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Studio/wizards/RenameModules.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/SchedulersJobs/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/SchedulersJobs/SchedulersJob.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Schedulers/views/view.edit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Schedulers/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Schedulers/_AddJobsHere.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Schedulers/Scheduler.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Relationships/Relationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Prospects/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Prospects/tpls/QuickCreate.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Prospects/Prospect.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ProspectLists/ProspectList.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ProjectTask/views/view.list.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ProjectTask/ProjectTask.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Project/views/view.quickedit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Project/tpls/QuickEditHeader.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Project/tpls/QuickEditFooter.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Project/Project.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Opportunities/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Opportunities/Opportunity.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Notes/Note.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MySettings/TabController.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/views/view.modulefields.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/views/view.listview.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/views/view.layoutview.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/tpls/layoutView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/tpls/editProperty.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/views/UndeployedSubpanelImplementation.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/views/ListLayoutMetaDataParser.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/views/GridLayoutMetaDataParser.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/views/DeployedMetaDataImplementation.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/views/DashletMetaDataParser.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/relationships/UndeployedRelationships.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/relationships/ActivitiesRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/relationships/AbstractRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/StandardField.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/parsers/ParserFactory.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/javascript/studio2.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/javascript/SimpleList.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/javascript/ModuleBuilder.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/controller.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/Module/StudioModule.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/Module/DropDownBrowser.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/MB/ModuleBuilder.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/MB/MBPackage.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ModuleBuilder/MB/MBModule.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MergeRecords/Step3.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MergeRecords/Step2.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MergeRecords/Step1.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MergeRecords/SaveMerge.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/views/view.listbytype.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/tpls/reminders.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/metadata/quickcreatedefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/metadata/editviewdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/metadata/detailviewdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/metadata/additionalDetails.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/jsclass_scheduler.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/duration_dependency.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/Save.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/MeetingFormBase.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/Meeting.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Meetings/Dashlets/MyMeetingsDashlet/MyMeetingsDashlet.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MailMerge/merge_query.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MailMerge/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MailMerge/index.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MailMerge/Step4.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MailMerge/Step3.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MailMerge/Step3.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MailMerge/Step2.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/MailMerge/Step1.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/views/view.convertlead.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/tpls/QuickCreate.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/tpls/EditConvertLead.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/tpls/ConvertLeadHeader.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/tpls/ConvertLeadFooter.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/tpls/ConvertLead.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/metadata/editviewdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/metadata/convertdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Leads/Lead.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/InboundEmail/Save.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/InboundEmail/InboundEmail.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/InboundEmail/EditView.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/InboundEmail/EditView.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/views/view.step3.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/views/view.last.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/views/view.dupcheck.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/views/view.confirm.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/sources/ImportFile.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/UsersLastImport.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/Importer.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/ImportDuplicateCheck.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Import/CsvAutoDetect.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/views/view.tour.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/views/view.list.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/tour.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/tour.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/tour.css
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/quicksearchQuery.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/index.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/action_view_map.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/UnifiedSearchAdvanced.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/QuickSearch.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/Dashlets/iFrameDashlet/iFrameDashlet.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/Dashlets/iFrameDashlet/iFrameDashlet.meta.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/Dashlets/SugarNewsDashlet/SugarNewsDashlet.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/Dashlets/ChartsDashlet/ChartsDashlet.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Home/About.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Employees/EmployeesSearchForm.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Employees/Employee.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/views/view.quickcreate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/javascript/grid.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/javascript/composeEmailTemplate.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/javascript/complexLayout.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/javascript/ajax.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/javascript/EmailUICompose.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/javascript/EmailUI.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/javascript/Email.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/Popup.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/EmailUIAjax.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/EmailUI.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/Email.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/EditView.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/DetailView.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/Delete.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/Compose.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Emails/Check.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailTemplates/PopupDocumentsCampaignTemplate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailTemplates/PopupDocumentsCampaignTemplate.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailTemplates/EmailTemplateFormBase.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailTemplates/EmailTemplate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailTemplates/AttachFiles.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailMarketing/EditView.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailMan/views/view.config.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailMan/tpls/config.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailMan/EmailManDelivery.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EmailMan/EmailMan.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EAPM/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/EAPM/controller.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DynamicFields/templates/Fields/TemplateInt.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DynamicFields/templates/Fields/TemplateField.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DynamicFields/templates/Fields/TemplateDatetimecombo.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DynamicFields/templates/Fields/Forms/enum.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DynamicFields/templates/Fields/Forms/currency.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DynamicFields/templates/Fields/Forms/coreBottom.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DynamicFields/UpgradeFields.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DynamicFields/DynamicField.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Documents/views/view.extdoc.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Documents/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Documents/metadata/SearchFields.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Documents/Document.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DocumentRevisions/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/DocumentRevisions/DocumentRevision.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Currencies/Currency.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Contacts/views/view.edit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Contacts/tpls/QuickCreate.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Contacts/metadata/quickcreatedefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Contacts/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Contacts/Popup_picker.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Contacts/ContactFormBase.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Contacts/Contact.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Contacts/AcceptDecline.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Connectors/views/view.sourceproperties.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Connectors/connectors/sources/ext/rest/linkedin/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Connectors/connectors/sources/ext/rest/linkedin/config.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Connectors/connectors/sources/ext/rest/insideview/tpls/InsideView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls/default.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Configurator/views/view.edit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Configurator/tpls/adminwizard.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Configurator/tpls/EditView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Configurator/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Configurator/UploadFileCheck.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Configurator/LogView.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Configurator/Forms.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Configurator/Configurator.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Charts/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Charts/code/predefined_charts.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Charts/chartdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Charts/DynamicAction.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Charts/Dashlets/MyPipelineBySalesStageDashlet/MyPipelineBySalesStageDashlet.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Cases/metadata/popupdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Cases/metadata/detailviewdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Cases/Case.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/views/view.detail.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/tpls/campaign-inactive.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/metadata/detailviewdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WizardNewsletter.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WizardMarketing.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WizardHome.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WizardEmailSetupSave.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WizardEmailSetup.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WizardEmailSetup.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WebToLeadFormSave.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WebToLeadDownloadForm.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/WebToLeadCapture.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/TrackDetailView.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/Schedule.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/QueueCampaign.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/ProcessBouncedEmails.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/Dashlets/TopCampaignsDashlet/TopCampaignsDashlet.meta.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/Charts.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Campaigns/Campaign.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/CampaignLog/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/CampaignLog/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/metadata/editviewdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/metadata/detailviewdefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/metadata/additionalDetails.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/Save.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/CallHelper.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/CallFormBase.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calls/Call.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/views/view.savesettings.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/tpls/shared_users.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/tpls/settings.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/tpls/main.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/tpls/form.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/index.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/CalendarUtils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/CalendarGrid.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/CalendarDisplay.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/CalendarActivity.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/Calendar.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/Cal.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Calendar/Cal.css
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Bugs/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Bugs/Bug.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Audit/Audit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/views/view.backups.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/updater_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/templates/GlobalSearchSettings.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/metadata/adminpaneldefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/controller.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/action_view_map.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/UpgradeWizard_prepare.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/UpgradeWizard_commit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/UpgradeWizard.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/SupportPortal.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/SugarSpriteBuilder.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/RebuildConfig.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/PasswordManager.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/PasswordManager.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/Locale.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/DisplayWarnings.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/DiagnosticRun.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/DiagnosticDownload.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/DiagnosticDelete.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/Diagnostic.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Administration/Administration.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Activities/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Activities/SubPanelViewContacts.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Activities/SubPanelView.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Activities/Popup_picker.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Activities/EmailReminder.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Accounts/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Accounts/metadata/subpaneldefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/Accounts/Account.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ACLRoles/DetailView.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ACLRoles/ACLRole.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ACLActions/ACLAction.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/modules/ACL/ACLController.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/metadata/emails_beansMetaData.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/metadata/audit_templateMetaData.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/modules/Users/login.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/modules/Users/UserEditView.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/modules/Meetings/jsclass_scheduler.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/modules/Meetings/duration_dependency.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/modules/Home/tour.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/modules/Calendar/Cal.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/javascript/tour.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/javascript/sugar_3.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/javascript/report_additionals.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/javascript/quicksearch.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/javascript/quickCompose.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/javascript/popup_helper.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/javascript/jsclass_async.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/javascript/ajaxUI.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/SugarFields/Fields/Datetimecombo/Datetimecombo.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/SugarEmailAddress/SugarEmailAddress.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/SugarCharts/Jit/js/sugarCharts.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/SugarCharts/Jit/js/Jit/jit.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/SubPanel/SubPanelTiles.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/src_files/include/EditView/Panels.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/jssource/JSGroupings.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/json_server.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/install/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/install/install_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/install/confirmSettings.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/install/checkDBSettings.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/vCard.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/utils/sugar_file_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/utils/security_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/utils/layout_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/utils/file_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/utils/autoloader.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/utils/LogicHook.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/upload_file.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-zh_cn.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-zh.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-tr.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-se.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-ru.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-ro.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-pl.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-no.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-nl.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-ja.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-it.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-hu.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-fr.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-fo.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-fi.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-et.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-es.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-dk.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-de.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-cz.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-ch.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-ca.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-br.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/language/phpmailer.lang-ar.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/extras/htmlfilter.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/class.smtp.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/class.phpmailer.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/README
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/phpmailer/LICENSE
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/php-sql-parser.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/nusoap/nusoap.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/modules.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/language/en_us.notify_template.html
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/tour.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/tiny_mce/plugins/paste/editor_plugin_src.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/tiny_mce/plugins/paste/editor_plugin.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/sugar_3.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/report_additionals.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/quicksearch.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/quickCompose.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/popup_helper.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/jsclass_async.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/jsAlerts.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/jquery/jquery.sugarMenu.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/jquery/jquery.popoverext.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/jquery/jquery.hoverIntent.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/jquery/jquery.effects.custombounce.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/jquery/bootstrap.min.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/javascript.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/getYUIComboFile.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/javascript/ajaxUI.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/images/tour/profile_link.png
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/images/tour/arrow_ie.png
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/images/tour/arrow.png
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/images/tour/FirstFrame.png
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/globalControlLinks.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelTopSelectUsersButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelTopSelectContactsButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelTopSelectButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelTopCreateTaskButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelTopCreateCampaignLogEntryButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelTopComposeEmailButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelTopButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelTopArchiveEmailButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelRemoveButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelIcon.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelEditButton.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetSubPanelDetailViewLink.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetReportField.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldtext.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldrelate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldname.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldmultienum.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldlong.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldenum.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFielddatetime.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFielddate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldcurrency_id.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldcurrency.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidgetFieldbool.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/SugarWidgets/SugarWidget.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/Save2.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/generic/LayoutManager.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/formbase.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/externalAPI/ExternalAPIFactory.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/export_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/entryPoint.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/database/MysqlManager.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/database/MssqlManager.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/database/DBManager.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/connectors/utils/ConnectorUtils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/connectors/utils/ConnectorHtmlHelperFactory.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/connectors/utils/ConnectorHtmlHelper.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/clean.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/VarDefHandler/vardef_meta_arrays.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/TimeDate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/TemplateHandler/TemplateHandler.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Sugarpdf/Sugarpdf.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Sugar_Smarty.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarXHprof/xhprof_lib/utils/xhprof_runs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarXHprof/xhprof_lib/utils/xhprof_lib.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarXHprof/xhprof_lib/utils/callgraph_utils.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarXHprof/xhprof_lib/display/xhprof.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarXHprof/xhprof_lib/display/typeahead_common.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarXHprof/SugarXHprof.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarTheme/getImage.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarTheme/SugarTheme.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarQueue/SugarJobQueue.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarPHPMailer.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/sale/metadata/subpanels/default.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/sale/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/person/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/person/metadata/subpanels/default.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/person/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/person/Person.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/issue/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/issue/metadata/subpanels/default.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/issue/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/file/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/file/metadata/subpanels/default.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/file/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/company/vardefs.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/company/metadata/subpanels/default.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/company/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/company/Company.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/basic/metadata/subpanels/default.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/templates/basic/language/en_us.lang.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarObjects/VardefManager.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarLogger/LoggerManager.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFolders/SugarFolders.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Text/DetailView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Relate/SugarFieldRelate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Relate/DetailView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Parent/SearchView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Parent/EditView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Link/EditView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Int/RangeSearchForm.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/File/SugarFieldFile.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/File/SearchView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Datetimecombo/SugarFieldDatetimecombo.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Datetimecombo/RangeSearchForm.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Datetimecombo/Datetimecombo.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Datetime/SugarFieldDatetime.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Currency/SugarFieldCurrency.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarFields/Fields/Base/SugarFieldBase.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarEmailAddress/SugarEmailAddress.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarEmailAddress/SugarEmailAddress.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarDateTime.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarCharts/SugarChart.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarCharts/JsChart.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarCharts/Jit/js/sugarCharts.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarCharts/Jit/js/Jit/jit.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarCharts/Jit/JitReports.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SugarCache/SugarCache.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SubPanel/SubPanelViewer.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SubPanel/SubPanelTiles.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SubPanel/SubPanelTiles.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SubPanel/SubPanelDefinitions.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SubPanel/SubPanel.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Smarty/plugins/modifier.json.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Smarty/plugins/function.sugar_replace_vars.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Smarty/plugins/function.sugar_phone.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Smarty/plugins/function.sugar_number_format.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Smarty/plugins/function.sugar_menu.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Smarty/plugins/function.sugar_button.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Smarty/plugins/function.sugar_action_menu.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Smarty/Smarty_Compiler.class.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SearchForm/tpls/SearchFormGenericAdvanced.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SearchForm/SearchForm2.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/SearchForm/SearchForm.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Popups/tpls/PopupGeneric.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Popups/PopupSmarty.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/OutboundEmail/OutboundEmail.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MySugar/MySugar.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MassUpdate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/View/views/view.popup.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/View/views/view.list.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/View/views/view.importvcardsave.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/View/views/view.importvcard.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/View/views/view.edit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/View/views/view.detail.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/View/tpls/Importvcard.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/View/SugarView.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/SugarApplication.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/MVC/Controller/entry_point_registry.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Localization/Localization.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/ListView/ListViewSmarty.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/ListView/ListViewPagination.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/ListView/ListViewGeneric.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/ListView/ListViewDisplay.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/ListView/ListViewData.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/ListView/ListView.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/HTMLPurifier/HTMLPurifier.standalone.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/EditView/header.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/EditView/SugarVCR.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/EditView/SugarVCR.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/EditView/SubpanelQuickEdit.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/EditView/SubpanelQuickCreate.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/EditView/Panels.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/EditView/EditView2.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/EditView/EditView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/DetailView/header.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/DetailView/DetailView2.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/DetailView/DetailView.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Dashlets/DashletGenericChart.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Dashlets/DashletGeneric.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/include/Dashlets/Dashlet.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/get_url.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/export.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/download.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/SugarBean.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Relationships/SugarRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Relationships/RelationshipFactory.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Relationships/One2OneRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Relationships/One2OneBeanRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Relationships/One2MRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Relationships/One2MBeanRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Relationships/M2MRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Relationships/EmailAddressRelationship.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/Link2.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/data/BeanFactory.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/crossdomain.xml
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/cache/include/javascript/sugar_grp_quickcomp.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/cache/include/javascript/sugar_grp_jsolait.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/cache/include/javascript/sugar_grp_emails.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/cache/include/javascript/sugar_grp1_yui.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/cache/include/javascript/sugar_grp1_jquery.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/cache/include/javascript/sugar_grp1.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/cache/include/javascript/sugar_field_grp.js
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/Zend/Oauth/Provider.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/ModuleInstall/extensions.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/ModuleInstall/PackageManager/tpls/PackageForm.tpl
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/ModuleInstall/PackageManager/PackageManagerDisplay.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/ModuleInstall/PackageManager/PackageManager.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/ModuleInstall/ModuleScanner.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Backing up file: /var/www/1-sugarcrm/ModuleInstall/ModuleInstaller.php
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - file backup done.
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Running pre_install()...
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - pre_install() done.
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Commit step finished SugarMerge run with the following results:Array
+(
+    [Calls] => Array
+        (
+            [editviewdefs.php] => 1
+            [detailviewdefs.php] => 1
+        )
+
+    [Contacts] => Array
+        (
+        )
+
+    [Opportunities] => Array
+        (
+        )
+
+    [Employees] => Array
+        (
+        )
+
+    [a0423_Agreements] => Array
+        (
+        )
+
+    [Connectors] => Array
+        (
+        )
+
+    [Groups] => Array
+        (
+        )
+
+    [Meetings] => Array
+        (
+            [editviewdefs.php] => 1
+            [detailviewdefs.php] => 1
+        )
+
+    [ACLRoles] => Array
+        (
+        )
+
+    [Notes] => Array
+        (
+        )
+
+    [Users] => Array
+        (
+        )
+
+    [Accounts] => Array
+        (
+        )
+
+    [Tasks] => Array
+        (
+        )
+
+    [Leads] => Array
+        (
+        )
+
+    [b0411_Bankinfo] => Array
+        (
+        )
+
+    [Prospects] => Array
+        (
+        )
+
+)
+
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Starting file copy process...
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Skipping "sugar_version.php" - file copy will occur at end of successful upgrade
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - File copy done.
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Starting post_install()...
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Entered post_install function.
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Upgrading the database from 6.5.12 to version 6.5.13
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Running SQL file /var/www/1-sugarcrm/cache/upgrades/temp/rivz4H/scripts/65x_to_65x_mysql.sql
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - *** Skipping schema upgrade for point release.
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Applying .htaccess update security fix.
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Rebuilding SugarLogic Cache
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Rebuilding JS Langauages
+Tue, 11 Jun 2013 13:59:15 -0400 [UpgradeWizard] - Rebuilding Dashlets
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - At updateVersions()... updating config table and sugar_version.php.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - sugar_version.php successfully updated!
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Deleting old DB version info from config table.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Inserting updated version info into config table.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - updateVersions() complete.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Begining to upgrade group inbound email accounts
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Finished upgrade group inbound email accounts
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Found 0 escaped emails. Ignoring for now
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Found 0 emails whose caps field does not match.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - ------------------------------------------------------------------
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Determining which email addresses are duplicated within the system
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Repairing duplicate email address relationships and marking duplicates as deleted
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Performing UWrebuild()...
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Registering rebuild record: DELETE FROM versions WHERE name='Rebuild Extensions'
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Rebuild done.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Registering rebuild record in versions table: INSERT INTO versions (id, deleted, date_entered, date_modified, modified_user_id, created_by, name, file_version, db_version) VALUES ('5537a507-1299-01b0-1d9f-51b76512911d', '0', '2013-06-11 17:59:16', '2013-06-11 17:59:16', '1', '1', 'Rebuild Extensions', '4.0.0', '4.0.0')
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - UWrebuild() done.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - post_install() done.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - check if current_db_version in $_SESSION equals target_db_version in $_SESSION
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - finished check to see if current_db_version in $_SESSION equals target_db_version in $_SESSION
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - running deleteChance() function
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - running deleteCache() function
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - call addNewSystemTabsFromUpgrade(upload://upgrades/patch/SugarCE-Upgrade-6.5.x-to-6.5.13-restore)
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - check to see if new modules exist
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - new modules to add are array (
+)
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - module tabs updated
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - finished addNewSystemTabsFromUpgrade
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Registering upgrade with UpgradeHistory
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Resetting error_reporting() to system level.
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Rebuilding style js file: cache/themes/Sugar5/js/style-min.js
+Tue, 11 Jun 2013 13:59:16 -0400 [UpgradeWizard] - Rebuilding language cache
+Tue, 11 Jun 2013 13:59:43 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 13:59:43 -0400 [UpgradeWizard] - Upgrade Wizard At Layout Commits
+Tue, 11 Jun 2013 13:59:43 -0400 [UpgradeWizard] - Layout Commits about to show selection table
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Upgrade Wizard At Layout Commits
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits examining modules to revert
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, selected modules by user: Array
+(
+    [0] => Calls
+    [1] => Meetings
+)
+
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Contacts module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Opportunities module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Employees module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding a0423_Agreements module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Connectors module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Groups module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding ACLRoles module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Notes module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Users module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Accounts module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Tasks module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Leads module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding b0411_Bankinfo module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Adding Prospects module to rollback list.
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits will rollback the following modules: Array
+(
+    [Contacts] => Array
+        (
+        )
+
+    [Opportunities] => Array
+        (
+        )
+
+    [Employees] => Array
+        (
+        )
+
+    [a0423_Agreements] => Array
+        (
+        )
+
+    [Connectors] => Array
+        (
+        )
+
+    [Groups] => Array
+        (
+        )
+
+    [ACLRoles] => Array
+        (
+        )
+
+    [Notes] => Array
+        (
+        )
+
+    [Users] => Array
+        (
+        )
+
+    [Accounts] => Array
+        (
+        )
+
+    [Tasks] => Array
+        (
+        )
+
+    [Leads] => Array
+        (
+        )
+
+    [b0411_Bankinfo] => Array
+        (
+        )
+
+    [Prospects] => Array
+        (
+        )
+
+)
+
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits merged the following modules: Array
+(
+    [Calls] => Array
+        (
+            [editviewdefs.php] => 1
+            [detailviewdefs.php] => 1
+        )
+
+    [Meetings] => Array
+        (
+            [editviewdefs.php] => 1
+            [detailviewdefs.php] => 1
+        )
+
+)
+
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, starting rollback
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Contacts
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Opportunities
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Employees
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:a0423_Agreements
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Connectors
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Groups
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:ACLRoles
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Notes
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Users
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Accounts
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Tasks
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Leads
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:b0411_Bankinfo
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits, iterating over module:Prospects
+Tue, 11 Jun 2013 14:00:07 -0400 [UpgradeWizard] - Layout Commits completed successfully
+Tue, 11 Jun 2013 14:00:12 -0400 [UpgradeWizard] - setting session variables...
+Tue, 11 Jun 2013 14:00:13 -0400 [UpgradeWizard] - [At end.php]
+Tue, 11 Jun 2013 14:00:13 -0400 [UpgradeWizard] -  Writing FTS hooks
+Tue, 11 Jun 2013 14:00:13 -0400 [UpgradeWizard] - About to repair the database.
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - database repaired
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] -  Start Rebuilding the config file again
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] -  Finish Rebuilding the config file again
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - Begin upgrade_connectors
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - End upgrade_connectors
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - Running UpgradeRemoval instance UpgradeRemoval62x
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - Files will be backed up to custom/backup
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - Running UpgradeRemoval instance UpgradeRemoval64x
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - Files will be backed up to custom/backup
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - Running UpgradeRemoval instance UpgradeRemoval65x
+Tue, 11 Jun 2013 14:00:15 -0400 [UpgradeWizard] - Files will be backed up to custom/backup
+Tue, 11 Jun 2013 14:00:25 -0400 [UpgradeWizard] - Start Updating the license 
+Tue, 11 Jun 2013 14:00:26 -0400 [UpgradeWizard] - End Updating the license 
+Tue, 11 Jun 2013 14:00:26 -0400 [UpgradeWizard] - Cleaning up the session.  Goodbye.
+Tue, 11 Jun 2013 14:00:26 -0400 [UpgradeWizard] - at unlinkUWTempFiles()
+Tue, 11 Jun 2013 14:00:27 -0400 [UpgradeWizard] - finished!
+Tue, 11 Jun 2013 14:00:27 -0400 [UpgradeWizard] - Cleaning up the session.  Goodbye.
+Tue, 11 Jun 2013 14:00:27 -0400 [UpgradeWizard] - resetting $_SESSION
+Wed, 12 Jun 2013 08:24:57 -0400 [UpgradeWizard] - setting session variables...
+Wed, 12 Jun 2013 08:24:57 -0400 [UpgradeWizard] - -----------------------------------------------------------------------------
+Wed, 12 Jun 2013 08:24:57 -0400 [UpgradeWizard] - Upgrade started. At start.php
+Wed, 12 Jun 2013 08:24:57 -0400 [UpgradeWizard] - at unlinkUWTempFiles()
+Wed, 12 Jun 2013 08:24:57 -0400 [UpgradeWizard] - finished!
+Wed, 12 Jun 2013 08:24:57 -0400 [UpgradeWizard] - resetting $_SESSION
+Wed, 12 Jun 2013 08:25:04 -0400 [UpgradeWizard] - setting session variables...
+Wed, 12 Jun 2013 08:25:04 -0400 [UpgradeWizard] - [At systemCheck.php]
+Wed, 12 Jun 2013 08:25:04 -0400 [UpgradeWizard] - Starting file permission check...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Finished file permission check.
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Starting database permissions check...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking CREATE TABLE permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking INSERT INTO permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking UPDATE TABLE permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking SELECT permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking DELETE FROM permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking ALTER TABLE ADD COLUMN permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking ALTER TABLE CHANGE COLUMN permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking ALTER TABLE DROP COLUMN permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Checking DROP TABLE permissions...
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - No permissions errors found!
+Wed, 12 Jun 2013 08:25:21 -0400 [UpgradeWizard] - Finished database permissions check.
+Wed, 12 Jun 2013 08:25:25 -0400 [UpgradeWizard] - setting session variables...
+Wed, 12 Jun 2013 08:25:25 -0400 [UpgradeWizard] - At upload.php
+Wed, 12 Jun 2013 08:25:25 -0400 [UpgradeWizard] - finding new files for upgrade
+Wed, 12 Jun 2013 08:25:26 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Wed, 12 Jun 2013 08:25:26 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Wed, 12 Jun 2013 08:25:51 -0400 [UpgradeWizard] - setting session variables...
+Wed, 12 Jun 2013 08:25:51 -0400 [UpgradeWizard] - At upload.php
+Wed, 12 Jun 2013 08:25:52 -0400 [UpgradeWizard] - running upload
+Wed, 12 Jun 2013 08:25:52 -0400 [UpgradeWizard] - File uploaded to upload://SugarCE-Upgrade-6.5.x-to-6.5.13.zip
+Wed, 12 Jun 2013 08:25:52 -0400 [UpgradeWizard] - extracting manifest.
+Wed, 12 Jun 2013 08:25:52 -0400 [UpgradeWizard] - validating manifest.php file
+Wed, 12 Jun 2013 08:25:52 -0400 [UpgradeWizard] - finding new files for upgrade
+Wed, 12 Jun 2013 08:25:52 -0400 [UpgradeWizard] - *** Potential error: patch found with either no 'type' or non-patch type [ upload://upgrades/module/TestPackage2013_05_03_222116.zip ]
+Wed, 12 Jun 2013 08:25:52 -0400 [UpgradeWizard] - *** UW using [  ] as source for patch files.
