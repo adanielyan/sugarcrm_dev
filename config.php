@@ -1,5 +1,5 @@
 <?php
-// created: 2013-06-11 14:00:15
+// created: 2013-08-15 16:16:23
 $sugar_config = array (
   'addAjaxBannedModules' => 
   array (
@@ -323,14 +323,14 @@ $sugar_config = array (
   'securitysuite_strict_rights' => true,
   'securitysuite_user_popup' => true,
   'securitysuite_user_role_precedence' => true,
-  'securitysuite_version' => '6.5.13',
+  'securitysuite_version' => '6.5.14',
   'session_dir' => '',
   'showDetailData' => true,
   'showThemePicker' => true,
   'site_url' => 'http://apollo.techlab360.org',
   'slow_query_time_msec' => '0',
   'stack_trace_errors' => false,
-  'sugar_version' => '6.5.13',
+  'sugar_version' => '6.5.14',
   'sugarbeet' => 0,
   'time_formats' => 
   array (
