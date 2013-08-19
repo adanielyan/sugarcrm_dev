@@ -158,6 +158,13 @@ array (
           0 => 'date_entered',
           1 => 'date_modified',
         ),
+        9 => 
+        array (
+          0 => 
+          array (
+            'name' => 'schoo_scholarships_a0423_agreements_name',
+          ),
+        ),
       ),
       'lbl_detailview_panel1' => 
       array (
@@ -215,8 +222,6 @@ array (
         ),
         4 => 
         array (
-          0 => '',
-          1 => '',
         ),
       ),
       'lbl_detailview_panel2' => 

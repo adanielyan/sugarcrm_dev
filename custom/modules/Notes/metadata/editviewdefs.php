@@ -1,27 +1,29 @@
 <?php
-// created: 2013-06-11 13:59:16
-$viewdefs['Notes']['EditView'] = array (
-  'templateMeta' => 
+$viewdefs ['Notes'] = 
+array (
+  'EditView' => 
   array (
-    'form' => 
+    'templateMeta' => 
     array (
-      'enctype' => 'multipart/form-data',
-    ),
-    'maxColumns' => '2',
-    'widths' => 
-    array (
-      0 => 
+      'form' => 
       array (
-        'label' => '10',
-        'field' => '30',
+        'enctype' => 'multipart/form-data',
       ),
-      1 => 
+      'maxColumns' => '2',
+      'widths' => 
       array (
-        'label' => '10',
-        'field' => '30',
+        0 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
+        1 => 
+        array (
+          'label' => '10',
+          'field' => '30',
+        ),
       ),
-    ),
-    'javascript' => '{sugar_getscript file="include/javascript/dashlets.js"}
+      'javascript' => '{sugar_getscript file="include/javascript/dashlets.js"}
 <script>
 function deleteAttachmentCallBack(text)
 	{literal} { {/literal}
@@ -36,67 +38,76 @@ function deleteAttachmentCallBack(text)
 {literal} } {/literal}
 </script>
 <script>toggle_portal_flag(); function toggle_portal_flag()  {literal} { {/literal} {$TOGGLE_JS} {literal} } {/literal} </script>',
-    'tabDefs' => 
-    array (
-      'LBL_NOTE_INFORMATION' => 
+      'tabDefs' => 
       array (
-        'newTab' => false,
-        'panelDefault' => 'expanded',
-      ),
-      'LBL_PANEL_ASSIGNMENT' => 
-      array (
-        'newTab' => false,
-        'panelDefault' => 'expanded',
-      ),
-    ),
-  ),
-  'panels' => 
-  array (
-    'lbl_note_information' => 
-    array (
-      0 => 
-      array (
-        0 => 'contact_name',
-        1 => 'parent_name',
-      ),
-      1 => 
-      array (
-        0 => 
+        'LBL_NOTE_INFORMATION' => 
         array (
-          'name' => 'name',
-          'displayParams' => 
-          array (
-            'size' => 60,
-          ),
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+        'LBL_PANEL_ASSIGNMENT' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
         ),
       ),
-      2 => 
-      array (
-        0 => 'filename',
-      ),
-      3 => 
+    ),
+    'panels' => 
+    array (
+      'lbl_note_information' => 
       array (
         0 => 
         array (
-          'name' => 'description',
-          'label' => 'LBL_NOTE_STATUS',
+          0 => 'contact_name',
+          1 => 'parent_name',
         ),
         1 => 
         array (
-          'name' => 'a0423_agreements_activities_1_notes_name',
+          0 => 
+          array (
+            'name' => 'name',
+            'displayParams' => 
+            array (
+              'size' => 60,
+            ),
+          ),
+        ),
+        2 => 
+        array (
+          0 => 'filename',
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'description',
+            'label' => 'LBL_NOTE_STATUS',
+          ),
+          1 => 
+          array (
+            'name' => 'a0423_agreements_activities_1_notes_name',
+          ),
+        ),
+        4 => 
+        array (
+          0 => 
+          array (
+            'name' => 'schoo_scholarships_activities_1_notes_name',
+          ),
         ),
       ),
-    ),
-    'LBL_PANEL_ASSIGNMENT' => 
-    array (
-      0 => 
+      'LBL_PANEL_ASSIGNMENT' => 
       array (
         0 => 
         array (
-          'name' => 'assigned_user_name',
-          'label' => 'LBL_ASSIGNED_TO',
+          0 => 
+          array (
+            'name' => 'assigned_user_name',
+            'label' => 'LBL_ASSIGNED_TO',
+          ),
         ),
       ),
     ),
   ),
 );
+?>

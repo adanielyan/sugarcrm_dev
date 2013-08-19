@@ -171,6 +171,10 @@ array (
           array (
             'name' => 'contacts_a0423_agreements_1_name',
           ),
+          1 => 
+          array (
+            'name' => 'schoo_scholarships_a0423_agreements_name',
+          ),
         ),
       ),
       'lbl_detailview_panel1' => 

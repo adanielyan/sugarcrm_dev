@@ -146,8 +146,13 @@ array (
         ),
         8 => 
         array (
-          0 => '',
-          1 => '',
+        ),
+        9 => 
+        array (
+          0 => 
+          array (
+            'name' => 'schoo_scholarships_a0423_agreements_name',
+          ),
         ),
       ),
       'lbl_editview_panel2' => 
